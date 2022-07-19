@@ -13,8 +13,5 @@
             "matches": ["https://open.spotify.com/*"],
             "js": ["background.js"]
         }
-    ],
-    "permissions": [
-        "activeTab"
     ]
 }
