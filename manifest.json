@@ -1,0 +1,20 @@
+{
+    "name": "Spotimute",
+    "version": "0.0.1",
+    "description": "This extension mutes the spotify audio when ad comes.",
+    "manifest_version": 3,
+    "author": "Tirth Patel",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Spotimute"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://open.spotify.com/*"],
+            "js": ["background.js"]
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ]
+}
