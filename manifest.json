@@ -13,5 +13,10 @@
             "matches": ["https://open.spotify.com/*"],
             "js": ["background.js"]
         }
-    ]
+    ],
+    "icons": {
+        "16": "./assets/_16.png",
+        "48": "./assets/_48.png",
+       "128": "./assets/_128.png"
+    }
 }
