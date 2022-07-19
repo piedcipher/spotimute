@@ -1,6 +1,6 @@
 <h1 align='center'>Spotimute</h1>
 
-<p align='center'>This extension mutes the spotify audio when ad comes.<p>
+<p align='center'>🔇🤐 This extension mutes the spotify audio 🎧👻 when ad comes.<p>
 
 <p align='center'><img src='https://user-images.githubusercontent.com/13456345/179860837-d63e5241-3336-4d48-9b5e-c9cfe085cdab.png' /></p>
 
