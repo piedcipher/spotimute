@@ -1,6 +1,6 @@
 <h1 align='center'>Spotimute</h1>
 
-<p align='center'><a href="https://chrome.google.com/webstore/detail/bhai-kya-kar-raha-hai-tu/ieogbmemnnfdlkhlnnpfkhiokgaoacdg"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
+<p align='center'><a href="https://chrome.google.com/webstore/detail/spotimute/mlkdhplkfffpgfkioemkjagaccinclgc"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
 
 <p align='center'>🔇🤐 This extension mutes the spotify audio 🎧👻 when ad comes.<p>
 
@@ -10,9 +10,9 @@ https://user-images.githubusercontent.com/13456345/179861240-bdf8562e-1842-456c-
 
 ## Install from Chrome-Web-Store
 
-- https://chrome.google.com/webstore/detail/bhai-kya-kar-raha-hai-tu/ieogbmemnnfdlkhlnnpfkhiokgaoacdg
+- https://chrome.google.com/webstore/detail/spotimute/mlkdhplkfffpgfkioemkjagaccinclgc
 
-<a href="https://chrome.google.com/webstore/detail/bhai-kya-kar-raha-hai-tu/ieogbmemnnfdlkhlnnpfkhiokgaoacdg"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="https://chrome.google.com/webstore/detail/spotimute/mlkdhplkfffpgfkioemkjagaccinclgc"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
 
 ## Install from Source
 
