@@ -1,5 +1,7 @@
 <h1 align='center'>Spotimute</h1>
 
+<p align='center'><img src='https://img.shields.io/chrome-web-store/users/mlkdhplkfffpgfkioemkjagaccinclgc?color=%2376FF03' /> <img src='https://img.shields.io/chrome-web-store/v/mlkdhplkfffpgfkioemkjagaccinclgc?color=%230091EA' /> <img src='https://img.shields.io/chrome-web-store/rating/mlkdhplkfffpgfkioemkjagaccinclgc?color=%23FFEA00' /></p>
+
 <p align='center'><a href="https://chrome.google.com/webstore/detail/spotimute/mlkdhplkfffpgfkioemkjagaccinclgc"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
 
 <p align='center'>🔇🤐 This extension mutes the spotify & gaana audio 🎧👻 when ad comes.<p>
