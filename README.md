@@ -8,6 +8,11 @@
 
 https://user-images.githubusercontent.com/13456345/179861240-bdf8562e-1842-456c-9794-29d58cd5cce5.mp4
 
+## Works With
+
+- [Spotify](https://open.spotify.com)
+- [Gaana](https://gaana.com)
+
 ## Install from Chrome-Web-Store
 
 - https://chrome.google.com/webstore/detail/spotimute/mlkdhplkfffpgfkioemkjagaccinclgc
