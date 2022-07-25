@@ -25,7 +25,7 @@ let muteButtonObserver = new MutationObserver(mutations => {
             const volumeRocketLabel = document.querySelector("#muteBtn")?.classList;
             if (!volumeRocketLabel.contains("muteAds")) {
                 muted = false;
-            } else if (volumeRocketLabel === "Unmute") {
+            } else {
                 muted = true;
             }
         }
@@ -36,10 +36,19 @@ let nowPlayingBarRenderingObserver = new MutationObserver(mutations => {
     for (let mutation of mutations) {
         if (document.querySelector("#mq_ads")) {
             nowPlayingBarObserver.observe(document.querySelector("#mq_ads"), { childList: true, subtree: true, attributes: true });
-            muteButtonObserver.observe(document.querySelector("#muteBtn"), { childList: true, subtree: true, attributes: true });
             nowPlayingBarRenderingObserver.disconnect();
         }
     }
 });
 
+let muteButtonRenderingObserver = new MutationObserver(mutations => {
+    for (let mutation of mutations) {
+        if (document.querySelector("#muteBtn")) {
+            muteButtonObserver.observe(document.querySelector("#muteBtn"), { childList: true, subtree: true, attributes: true });
+            muteButtonRenderingObserver.disconnect();
+        }
+    }
+});
+
 nowPlayingBarRenderingObserver.observe(document, { childList: true, subtree: true, attributes: true });
+muteButtonRenderingObserver.observe(document, { childList: true, subtree: true, attributes: true });
