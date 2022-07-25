@@ -1,7 +1,7 @@
 {
     "name": "Spotimute",
     "version": "0.0.1",
-    "description": "This extension mutes the spotify audio when ad comes.",
+    "description": "This extension mutes the spotify & gaana audio when ad comes.",
     "manifest_version": 3,
     "author": "Tirth Patel",
     "action": {
